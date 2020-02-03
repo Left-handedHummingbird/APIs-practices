@@ -1,2 +1,2 @@
 # APIs-practices
-Simple Data Analysis stuf with APIs, also i learned Markdown cells's code.
+Simple Data Analysis stuff with APIs, also i learned Markdown cells's code.
